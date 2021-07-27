@@ -1,0 +1,13 @@
+D:\.Programacao\DIO\NET\aula2\bin\Debug\netcoreapp3.1\DiO.exe
+D:\.Programacao\DIO\NET\aula2\bin\Debug\netcoreapp3.1\DiO.deps.json
+D:\.Programacao\DIO\NET\aula2\bin\Debug\netcoreapp3.1\DiO.runtimeconfig.json
+D:\.Programacao\DIO\NET\aula2\bin\Debug\netcoreapp3.1\DiO.runtimeconfig.dev.json
+D:\.Programacao\DIO\NET\aula2\bin\Debug\netcoreapp3.1\DiO.dll
+D:\.Programacao\DIO\NET\aula2\bin\Debug\netcoreapp3.1\DiO.pdb
+D:\.Programacao\DIO\NET\aula2\obj\Debug\netcoreapp3.1\DiO.csprojAssemblyReference.cache
+D:\.Programacao\DIO\NET\aula2\obj\Debug\netcoreapp3.1\DiO.AssemblyInfoInputs.cache
+D:\.Programacao\DIO\NET\aula2\obj\Debug\netcoreapp3.1\DiO.AssemblyInfo.cs
+D:\.Programacao\DIO\NET\aula2\obj\Debug\netcoreapp3.1\DiO.csproj.CoreCompileInputs.cache
+D:\.Programacao\DIO\NET\aula2\obj\Debug\netcoreapp3.1\DiO.dll
+D:\.Programacao\DIO\NET\aula2\obj\Debug\netcoreapp3.1\DiO.pdb
+D:\.Programacao\DIO\NET\aula2\obj\Debug\netcoreapp3.1\DiO.genruntimeconfig.cache
