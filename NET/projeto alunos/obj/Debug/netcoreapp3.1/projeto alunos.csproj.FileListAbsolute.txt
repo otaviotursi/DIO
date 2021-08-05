@@ -1,0 +1,13 @@
+D:\.Programacao\DIO\NET\projeto alunos\bin\Debug\netcoreapp3.1\projeto alunos.exe
+D:\.Programacao\DIO\NET\projeto alunos\bin\Debug\netcoreapp3.1\projeto alunos.deps.json
+D:\.Programacao\DIO\NET\projeto alunos\bin\Debug\netcoreapp3.1\projeto alunos.runtimeconfig.json
+D:\.Programacao\DIO\NET\projeto alunos\bin\Debug\netcoreapp3.1\projeto alunos.runtimeconfig.dev.json
+D:\.Programacao\DIO\NET\projeto alunos\bin\Debug\netcoreapp3.1\projeto alunos.dll
+D:\.Programacao\DIO\NET\projeto alunos\bin\Debug\netcoreapp3.1\projeto alunos.pdb
+D:\.Programacao\DIO\NET\projeto alunos\obj\Debug\netcoreapp3.1\projeto alunos.csprojAssemblyReference.cache
+D:\.Programacao\DIO\NET\projeto alunos\obj\Debug\netcoreapp3.1\projeto alunos.AssemblyInfoInputs.cache
+D:\.Programacao\DIO\NET\projeto alunos\obj\Debug\netcoreapp3.1\projeto alunos.AssemblyInfo.cs
+D:\.Programacao\DIO\NET\projeto alunos\obj\Debug\netcoreapp3.1\projeto alunos.csproj.CoreCompileInputs.cache
+D:\.Programacao\DIO\NET\projeto alunos\obj\Debug\netcoreapp3.1\projeto alunos.dll
+D:\.Programacao\DIO\NET\projeto alunos\obj\Debug\netcoreapp3.1\projeto alunos.pdb
+D:\.Programacao\DIO\NET\projeto alunos\obj\Debug\netcoreapp3.1\projeto alunos.genruntimeconfig.cache

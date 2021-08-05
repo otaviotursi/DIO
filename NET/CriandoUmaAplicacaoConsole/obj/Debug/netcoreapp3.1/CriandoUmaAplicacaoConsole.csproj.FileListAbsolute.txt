@@ -1,0 +1,13 @@
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\bin\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.exe
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\bin\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.deps.json
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\bin\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.runtimeconfig.json
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\bin\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.runtimeconfig.dev.json
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\bin\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.dll
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\bin\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.pdb
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\obj\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.csprojAssemblyReference.cache
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\obj\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.AssemblyInfoInputs.cache
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\obj\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.AssemblyInfo.cs
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\obj\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.csproj.CoreCompileInputs.cache
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\obj\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.dll
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\obj\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.pdb
+D:\.Programacao\DIO\NET\CriandoUmaAplicacaoConsole\obj\Debug\netcoreapp3.1\CriandoUmaAplicacaoConsole.genruntimeconfig.cache
